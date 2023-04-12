@@ -10,3 +10,8 @@ Repositório com informações para construção de APIs
 
 [Eduardo Mendes - Documentando APIs com OpenAPI - Live de Python](https://www.youtube.com/watch?v=TfGHNBaK9a0)
 
+
+JWT
+
+[Onde armazenar seus JWTs – Cookies versus armazenamento na Web HTML5](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage)
+[Use o JWT da maneira certa!](https://stormpath.com/blog/jwt-the-right-way)
