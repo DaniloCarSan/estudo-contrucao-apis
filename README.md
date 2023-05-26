@@ -12,6 +12,8 @@ Repositório com informações para construção de APIs
 
 [http options method](https://zacstewart.com/2012/04/14/http-options-method.html)
 
+[ HTTP Authentication: Basic and Digest Access Authentication](https://datatracker.ietf.org/doc/html/rfc2617)
+
 JWT
 
 [Onde armazenar seus JWTs – Cookies versus armazenamento na Web HTML5](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage)
