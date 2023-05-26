@@ -10,7 +10,7 @@ Repositório com informações para construção de APIs
 
 [Eduardo Mendes - Documentando APIs com OpenAPI - Live de Python](https://www.youtube.com/watch?v=TfGHNBaK9a0)
 
-[http options method]: https://zacstewart.com/2012/04/14/http-options-method.html
+[http options method](https://zacstewart.com/2012/04/14/http-options-method.html)
 
 JWT
 
