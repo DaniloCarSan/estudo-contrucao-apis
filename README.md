@@ -18,3 +18,7 @@ JWT
 
 [Onde armazenar seus JWTs – Cookies versus armazenamento na Web HTML5](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage)
 [Use o JWT da maneira certa!](https://stormpath.com/blog/jwt-the-right-way)
+
+
+
+[API OWASP]https://owasp.org/www-project-api-security/
